@@ -11,3 +11,4 @@ science.expm1 = function(x) {
 science.functor = function(v) {
   return typeof v === "function" ? v : function() { return v; };
 };
+v2
